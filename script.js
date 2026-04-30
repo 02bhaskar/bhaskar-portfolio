@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
         e.preventDefault();
         
         // Open resume PDF
-window.open('assets/Bhaskar_resume.pdf', '_blank');
+window.open('Bhaskar resume.pdf', '_blank');
     });
     
     // Profile Photo Error Handling
